@@ -1,0 +1,21 @@
+{
+  // Minimal modules list referenced by configs/waybar/config
+  "modules-left": [
+    "custom/appmenuicon",
+    "hyprland/workspaces"
+  ],
+  "modules-center": [
+    "hyprland/window"
+  ],
+  "modules-right": [
+    "custom/updates",
+    "pulseaudio",
+    "battery",
+    "hyprland/language",
+    "group/hardware",
+    "custom/cliphist",
+    "custom/exit",
+    "clock",
+    "tray"
+  ]
+}
