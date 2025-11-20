@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.sw?
+*~ 
+
+# Local config / secrets
+configs/hypr/private.conf
+configs/*/secrets.*
+*.key
+*.pem
+*.crt
+
+# Logs / cache
+*.log
+.cache/
+tmp/
+
+# SSH / Credentials
+/home/admin/.ssh/
+*.env

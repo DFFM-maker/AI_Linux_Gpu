@@ -1,0 +1,5 @@
+EndeavourOS_Mercury-Neo-2025.03.19
+Base install: Online, No Desktop
+Hyprland install via while1618/hyprland-install-script (some manual fixes applied)
+Date: 2025-11-20
+Author: DFFM-maker
