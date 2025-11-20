@@ -14,12 +14,14 @@ configs/*/secrets.*
 *.key
 *.pem
 *.crt
+id_ed25519*
+id_rsa*
 
 # Logs / cache
 *.log
 .cache/
 tmp/
 
-# SSH / Credentials
-/home/admin/.ssh/
+# Credentials / env
 *.env
+.git-credentials

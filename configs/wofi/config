@@ -1,0 +1,6 @@
+# configs/wofi/config
+# Minimal wofi configuration (adapt theme and paths as needed)
+show-icons=true
+theme=name:default
+# theme-file: ./style.css
+# Additional wofi options can be set here

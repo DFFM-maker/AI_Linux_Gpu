@@ -1,0 +1,10 @@
+# configs/mako/config
+# Minimal mako configuration
+# Place this in ~/.config/mako/config (if installed via scripts, it will be copied there)
+
+timeout=5
+max-visible=3
+font=JetBrains Mono 10
+position=top-right
+layer=top
+rich-text=false
